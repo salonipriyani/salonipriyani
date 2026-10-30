@@ -8,6 +8,6 @@ Senior engineer building backend systems and data infrastructure. Currently Seni
 - Multi-agent AI — production agent systems (Google ADK, LangGraph) for pipeline automation
 
 **Featured**
-- [Atelier](https://github.com/salonipriyani/atelier) — multi-agent system that converts fashion sketches into printable sewing patterns (LangGraph, FastAPI, Docker)
+- [Atelier](https://github.com/salonipriyani/image-to-sewing-pattern-converter) — multi-agent system that converts fashion sketches into printable sewing patterns (LangGraph, FastAPI, Docker)
 
 📫 priyanisaloni@gmail.com · [LinkedIn](https://www.linkedin.com/in/saloni-priyani) · [Portfolio](https://salonipriyani.github.io/portfolio/)
