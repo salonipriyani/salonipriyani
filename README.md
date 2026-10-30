@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Saloni
 
-<!--
-**salonipriyani/salonipriyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior engineer building backend systems and data infrastructure. Currently Senior Data Engineer at CVS Health (Aetna); previously Software Engineer at Fidelity Investments.
 
-Here are some ideas to get you started:
+**What I work on**
+- Backend services — Java Spring Boot microservices (300K users), Python/FastAPI
+- Data platforms — Airflow, BigQuery, Kafka, Spark on GCP
+- Multi-agent AI — production agent systems (Google ADK, LangGraph) for pipeline automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured**
+- [Atelier](https://github.com/salonipriyani/atelier) — multi-agent system that converts fashion sketches into printable sewing patterns (LangGraph, FastAPI, Docker)
+
+📫 priyanisaloni@gmail.com · [LinkedIn](https://www.linkedin.com/in/saloni-priyani) · [Portfolio](https://salonipriyani.github.io/portfolio/)
