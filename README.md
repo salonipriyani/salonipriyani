@@ -5,7 +5,7 @@ Senior engineer building backend systems and data infrastructure. Currently Seni
 **What I work on**
 - Backend services — Java Spring Boot microservices (300K users), Python/FastAPI
 - Data platforms — Airflow, BigQuery, Kafka, Spark on GCP
-- Multi-agent AI — production agent systems (Google ADK, LangGraph) for pipeline automation
+- AI engineering — multi-agent systems (LangGraph), see Atelier below
 
 **Featured**
 - [Atelier](https://github.com/salonipriyani/image-to-sewing-pattern-converter) — multi-agent system that converts fashion sketches into printable sewing patterns (LangGraph, FastAPI, Docker)
